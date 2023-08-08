@@ -1,0 +1,11 @@
+What is machine learning?
+It is the field of study that gives the machine the ability to learn without being explicitly programmed for it.
+
+Machine learning algorithms:
+- Supervised learning:
+    - used most in the real world applications
+    - most advancements are observed
+- Unsupervised Learning:
+- Recommender Systems:
+- Reinforcement Learning:
+
